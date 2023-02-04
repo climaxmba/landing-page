@@ -92,13 +92,9 @@ a {
 }
 
 #img0 {
-    background: #b3b3b3;
-    height: 200px;
-    flex-basis: 450px;
+    height: 250px;
+    flex-basis: auto;
     display: flex;
-    flex-shrink: 0;
-    justify-content: center;
-    align-items: center;
 }
 
 /* block2 */
