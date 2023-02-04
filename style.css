@@ -110,3 +110,53 @@ button {
     border: 3px solid #3882f6;
     border-radius: 5px;
 }
+
+.block3 {
+    background-color: #e5e7eb;
+    padding: 100px 260px;
+    margin: 0;
+}
+
+#quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    margin: 0;
+}
+
+#quote-ref {
+    display: flex;
+    justify-content: end;
+    font-weight: bold;
+    margin: 0;
+    padding-right: 32px;
+    font-size: 22px; 
+}
+
+#cta {
+    background-color: #3882f6;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    padding: 32px 120px;
+    margin: 100px 150px;
+}
+
+#cta-heading {
+    margin: 0;
+    padding-top: 16px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+#cta-subtext {
+    margin: 0;
+    padding-bottom: 16px;
+    color: #e5e7eb;
+}
+
+#button2 {
+    border: 2px solid white;
+}
+
