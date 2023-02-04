@@ -14,3 +14,68 @@ body {
 #cta {
     display: flex;
 }
+
+#top {
+    background-color: #1F2937;
+    color: white;
+    padding-bottom: 86px;
+}
+
+.header {
+    justify-content: space-between;
+    align-items: center;
+}
+
+#links {
+    gap: 16px;
+}
+
+#logo {
+    font-weight: bold;
+    font-size: medium;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;;
+}
+
+.block1 {
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 0;
+}
+
+#main {
+    flex-direction: column;
+    align-items: flex-start;
+    flex-basis: 400px;
+    padding: 0;
+}
+
+#main-text {
+    font-size: 36px;
+    margin: 0;
+    padding: 0;
+}
+
+#secondary-text {
+    color: #e5e7eb;
+    font-size: 15px;
+    padding: 0;
+    margin: 8px 0;
+}
+
+#img0 {
+    background: #b3b3b3;
+    height: 200px;
+    flex-basis: 450px;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: center;
+    align-items: center;
+}
