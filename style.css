@@ -4,3 +4,13 @@ body {
     font-family: "Open Sans";
     margin: 0;
 }
+
+.header,
+#links,
+.block1,
+.block2,
+#main,
+#information,
+#cta {
+    display: flex;
+}
