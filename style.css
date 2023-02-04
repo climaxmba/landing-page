@@ -79,3 +79,34 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+button {
+    background-color: #3882f6;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    padding: 8px 32px;
+    font-weight: 700;
+    font-size: medium;
+}
+
+.block2 {
+    text-align: center;
+    margin: 8px 220px;
+    flex-direction: column;
+    padding-bottom: 100px;
+}
+
+.container {
+    padding: 0 32px;
+}
+
+#info-header {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.illustration {
+    border: 3px solid #3882f6;
+    border-radius: 5px;
+}
