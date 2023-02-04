@@ -56,6 +56,10 @@ button {
     font-size: medium;
 }
 
+#icon {
+    font-size: 24px;
+}
+
 ul {
     list-style-type: none;
 }
