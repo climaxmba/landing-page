@@ -8,5 +8,5 @@ Please click [here](https://climaxma.github.io/landing-page) to view the project
 
 ## Credits/Appreciation
 
-*[Photo by Pixabay](https://www.pexels.com/photo/abstract-business-code-coder-270348/)
-*[TheOdinProject](https://www.theodinproject.com)
+* [Photo by Pixabay](https://www.pexels.com/photo/abstract-business-code-coder-270348/)
+* [TheOdinProject](https://www.theodinproject.com)
