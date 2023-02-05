@@ -8,5 +8,5 @@ Please click [here](https://climaxmba.github.io/landing-page) to view the projec
 
 ## Credits/Appreciation
 
-* [Photo by Pixabay](https://www.pexels.com/photo/abstract-business-code-coder-270348/)
+* [Photo by Mikhail Nilov](https://www.pexels.com/photo/back-view-shot-of-a-man-working-on-his-computer-7988113/)
 * [TheOdinProject](https://www.theodinproject.com)
