@@ -4,7 +4,7 @@ This is a project of a landing page from [TheOdinProject](https://www.theodinpro
 
 ## View online
 
-Please click [here](https://climaxma.github.io/landing-page) to view the project online.
+Please click [here](https://climaxmba.github.io/landing-page) to view the project online.
 
 ## Credits/Appreciation
 
