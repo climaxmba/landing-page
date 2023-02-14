@@ -38,6 +38,11 @@ button {
     font-size: medium;
 }
 
+button:active {
+    color: #3882f6;
+    background-color: white;
+}
+
 /* top, containing block1 */
 #top {
     background-color: #1F2937;
@@ -228,11 +233,11 @@ a {
     }
 
     .block3 {
-        padding: 32px 42px;
+        padding: 64px 42px;
     }
 
     #cta {
-        margin: 36px 42px;
+        margin: 64px 36px;
         padding: 8px 36px;
     }
 }
@@ -275,7 +280,7 @@ a {
     }
 
     .block3 {
-        padding: 32px 16px;
+        margin-bottom: 32px;
     }
 
     #quote-text {
@@ -288,11 +293,12 @@ a {
 
     #cta {
         margin: 32px;
-        padding: 8px 32px;
+        padding: 8px 24px;
     }
 
     .footer {
         font-size: small;
+        margin-top: 32px;
         padding: 18px;
     }
 }
@@ -345,11 +351,8 @@ a {
     }
 
     .block3 {
-        padding: 32px 16px;
-    }
-
-    #quote-text {
-        font-size: x-large;
+        padding: 64px 42px;
+        margin-bottom: 32px;
     }
 
     #quote-ref {
@@ -369,6 +372,7 @@ a {
     .footer {
         font-size: small;
         padding: 18px;
+        margin-top: 32px;
     }
 }
 
@@ -422,11 +426,7 @@ a {
     }
 
     .block3 {
-        padding: 32px 16px;
-    }
-
-    #quote-text {
-        font-size: x-large;
+        padding: 42px 24px;
     }
 
     #quote-ref {
@@ -435,8 +435,8 @@ a {
 
     #cta {
         flex-wrap: wrap;
-        margin: 8px 8px;
-        padding: 8px 8px;
+        margin: 16px 8px;
+        padding: 16px 8px;
     }
 
     #button2 {
